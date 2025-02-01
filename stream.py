@@ -12,8 +12,8 @@ st.markdown("5 Minutes Engineering(Markdown)")
 st.caption("5 Minutes Engineering(Caption)")
 
 st.image("xyz.jpg")
-st.audio("speech.wav")
-st.video("abc.mkv")
+st.audio("speech.aac")
+st.video("abc.mp4")
 
 st.checkbox('checkbox')
 st.button('Click button')
